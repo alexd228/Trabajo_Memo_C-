@@ -1,0 +1,11 @@
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\bin\Release\Trabajodememo.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Interop.Office.dll
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.csproj.ResolveComReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\bin\Release\Trabajodememo.exe
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\bin\Release\Trabajodememo.pdb
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.exe
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.pdb
+C:\Users\Adrian\Documents\Visual Studio 2012\Projects\Trabajodememo\Trabajodememo\obj\Release\Trabajodememo.csprojResolveAssemblyReference.cache
